@@ -1,11 +1,11 @@
-# 📘 Student Placement Database
+#  Student Placement Database
 
 A simple **Java console-based application** to manage student placement records.  
 It supports adding, viewing, updating, deleting, and persisting student data using **file serialization**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Add new students with details like:
   - ID
   - Name
